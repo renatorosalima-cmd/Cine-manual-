@@ -74,5 +74,5 @@ Com o Cine Manual você ajusta manualmente:
 ## 🚀 Como compilar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/cine-manual.git
+git clone https://github.com/renatorosalima-cmd/cine-manual.git
 cd cine-manual
